@@ -8,4 +8,5 @@ module.exports = {
     filename: 'index_bundle.js'
   },
   plugins: [new HtmlWebpackPlugin()]
+  
 };
