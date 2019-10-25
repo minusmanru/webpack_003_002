@@ -69,7 +69,7 @@ service.log()
 /*  6
    ПЛАГИНЫ - классы которые добавляют функционал
    Ставим npm install --save-dev html-webpack-plugin
-   переходим в webpack.config.js - продолжение в нём  - 6.1 
+   переходим в webpack.config.js - продолжение в нём  - 6.1  
 */
 
 
